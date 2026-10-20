@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/TP01-Spring-Cloud-MSA/config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/TP01-Spring-Cloud-MSA/discovery-service/pom.xml" />
+        <option value="$PROJECT_DIR$/TP01-Spring-Cloud-MSA/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/TP01-Spring-Cloud-MSA/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/TP01-Spring-Cloud-MSA/account-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
